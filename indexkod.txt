@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+  <meta charset="UTF-8">
+  <meta name="viewport", content="width=device, initial-scale=1.0">
+  <title>Milan's Tutoring Services</title>
+  <link> real="stylessheet"
+href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Milan's Tutoring Services</h1>
+    <p>Learn English, prepare for IELTS, and more!<p>
+    </header>
+    <main>
+      <section>
+        <h2> What I offer<h2>
+        <ul>
+          <li>English lessons for all levels</li>
+          <li>IELTS preparation</li>
+          <li>Translation services</li>
+        </ul>
+      </section>
+      <footer>
+        <p>Contact me: mmitic78@outlook.com</p>
+      </footer>
+     </main>
+ </body>
+ </html>
