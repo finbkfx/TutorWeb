@@ -26,3 +26,5 @@ The Future, think about it. What will Your Future look like? 😉✔
 
 
 contact info: mmitic@outlook.com
+
+patreon.com/MilanMitic
